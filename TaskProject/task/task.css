@@ -1,0 +1,57 @@
+h1{
+    color:green;
+    text-align: center;
+    text-decoration:dotted;
+    text-shadow: 1px 1px yellowgreen;
+    font-size: 60px;
+  
+   font-weight: bolder;
+   font-style: italic;
+ border-style:double;
+}
+h3{
+   
+    text-align: center;
+    text-decoration:dotted;
+    text-shadow: 1px 1px rgb(15, 42, 89);
+    color:rgb(21, 115, 146);
+
+}
+a{
+    margin:6px;
+    color:rgb(202, 186, 46);
+   
+
+}
+nav{
+    background-color: rgb(113, 121, 124);
+}
+body{
+    background-image:url("food\ image2.jpeg");background-repeat: no-repeat;background-size: cover;
+}
+
+p{
+
+    color:rgb(202, 186, 46);
+    font-style: italic;
+    font-weight: bolder; 
+    font-size: xx-large;  
+    text-transform: none;
+   text-decoration: underline;
+   text-shadow:1px 1px 3px blue;
+   text-align: center;
+   
+}
+div{
+  
+    border-width: 10px;
+    border-color: rgb(165, 122, 56);
+    border-style: groove;
+
+}
+footer{
+    text-align: center;
+    color:rgb(72, 142, 151)
+     
+
+}

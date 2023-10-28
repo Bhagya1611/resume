@@ -1,0 +1,64 @@
+*{
+    margin: auto;
+    padding: 5px;
+}
+
+
+.calender-1{
+    border: 6px solid black;
+    background-color: aliceblue;
+    margin:auto;
+    max-width: 650px;
+background-image: url(https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+
+
+
+
+}
+.calender{
+    display: flex;
+padding:3px;
+margin:6px;
+
+}
+.name{
+    background-color: rgb(44, 174, 171);
+}
+
+
+ul{
+    list-style-type:none;
+} 
+
+ol{
+    list-style-type: none;
+}
+.calender-2{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+
+}
+.first{
+
+    grid-column-start: 4;
+    
+}
+p{
+    background-color: rgb(9, 211, 237);
+display: flex;
+
+
+
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:underline;
+
+}
+li{
+    font-size: larger;
+}
+h2{
+    text-align: center;
+}
